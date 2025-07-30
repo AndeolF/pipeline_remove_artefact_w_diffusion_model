@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+
+/dataset_50_run_05s_downsample
+
+/raw_data
+
+/Model_save
+
+
+**/__pycache__/
+
