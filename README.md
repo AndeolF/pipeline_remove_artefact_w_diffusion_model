@@ -62,8 +62,8 @@ During application on an MEG recording, the pipeline executes the following step
 ## Limitations
 * The current architecture applies single-channel correction. It does not leverage the spatial correlations and the multiplicity of sensors inherent to MEG/EEG recordings.
 
-## Other usefull repository
-The implementation is base on two other distinct repositories:
+## Other usefull repositories
+The implementation is based on two other separate repositories (available on my GitHub profile):
 * `CREATION_DATASET_CORRECTION_ARTEFACT`: Scripts for dataset creation (MEG segment alignment and feature extraction).
 * `Diffusion_model_TS_from_features`: Architecture of the VQ-VAE, the latent diffusion model (Flow Matching), and training scripts.
 
